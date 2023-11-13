@@ -1,0 +1,107 @@
+[
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 1",
+    "tags": ["Aromatherapy", "HolisticMedicine", "WesternMedicine", "Podiatry"],
+    "contact": "+91 99999-99991",
+    "location": "Location 1"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 2",
+    "tags": ["Reflexology", "Allopathy", "Naturopathy", "Unani", "Herbalism"],
+    "contact": "+91 99999-99992",
+    "location": "Location 2"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 3",
+    "tags": ["Physiotherapy", "HolisticMedicine", "Acupuncture", "Siddha"],
+    "contact": "+91 99999-99993",
+    "location": "Location 3"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 4",
+    "tags": ["Unani", "Osteopathy", "YogaTherapy", "Podiatry"],
+    "contact": "+91 99999-99994",
+    "location": "Location 4"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 5",
+    "tags": ["WesternMedicine", "Reiki", "Podiatry", "HolisticMedicine"],
+    "contact": "+91 99999-99995",
+    "location": "Location 5"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 6",
+    "tags": ["ChineseMedicine", "HolisticMedicine", "Reiki", "Physiotherapy"],
+    "contact": "+91 99999-99996",
+    "location": "Location 6"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 7",
+    "tags": ["ChineseMedicine", "Aromatherapy", "Unani"],
+    "contact": "+91 99999-99997",
+    "location": "Location 7"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 8",
+    "tags": ["WesternMedicine", "Acupuncture", "OrientalMedicine", "Reiki"],
+    "contact": "+91 99999-99998",
+    "location": "Location 8"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 9",
+    "tags": ["Aromatherapy", "Herbalism", "Naturopathy", "Allopathy"],
+    "contact": "+91 99999-99999",
+    "location": "Location 9"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 10",
+    "tags": ["Acupuncture", "HolisticMedicine", "Herbalism", "Unani"],
+    "contact": "+91 99999-999910",
+    "location": "Location 10"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 11",
+    "tags": ["Unani", "Herbalism", "HolisticMedicine", "Physiotherapy"],
+    "contact": "+91 99999-99911",
+    "location": "Location 11"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 12",
+    "tags": ["Allopathy", "Reflexology", "Podiatry", "Herbalism"],
+    "contact": "+91 99999-99912",
+    "location": "Location 12"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 13",
+    "tags": ["Reflexology", "Aromatherapy", "HolisticMedicine", "Yoga", "Unani"],
+    "contact": "+91 99999-99913",
+    "location": "Location 13"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 14",
+    "tags": ["Allopathy", "YogaTherapy", "Acupuncture", "Osteopathy"],
+    "contact": "+91 99999-99914",
+    "location": "Location 14"
+  },
+  {
+    "imgURL": "https://cdn.pixabay.com/photo/2019/05/12/20/58/hotel-4199113_1280.jpg",
+    "title": "Example Title 15",
+    "tags": ["WesternMedicine", "Acupuncture", "OrientalMedicine", "Podiatry"],
+    "contact": "+91 99999-99915",
+    "location": "Location 15"
+  }
+]
